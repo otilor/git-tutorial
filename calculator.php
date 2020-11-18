@@ -6,6 +6,6 @@ $secondNumber = 6;
 
 echo $firstNumber + $secondNumber;
 
-echo "hello";
+echo "hello World";
 
 ?>
