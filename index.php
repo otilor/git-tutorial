@@ -9,3 +9,4 @@ echo "Welcome to Git!";
 // git init - create a new git repository
 // git add {nameOfFile} -> Make git aware of the file
 // git commit -> Commit the file to the repository
+//Adigwe Emmanuel
